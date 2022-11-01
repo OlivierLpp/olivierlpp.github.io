@@ -15,9 +15,3 @@ Whenever files are commited to this repository, GitHub Pages will run [Jekyll](h
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-___
-
-
-### References
-
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
