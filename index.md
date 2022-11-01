@@ -1,8 +1,8 @@
-<div align="center"> <h1> Portfolio </h1> </div> 
+<div align="center"> <h1> <u>Portfolio </u></h1> </div> 
 
+<br>
 
-
-## HarvAI: An artificial intelligent NLP chatbot that answers legal questions.
+## 1. HarvAI: An artificial intelligent NLP chatbot that answers legal questions.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 [Youtube](/sample_page)
@@ -31,7 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 [Presentation](http://example.com/)
 
----
 
 
-<img src="assets/images/dummy_thumbnail.jpg?raw=true"/>
+
+<!-- <img src="assets/images/dummy_thumbnail.jpg?raw=true"/> -->
