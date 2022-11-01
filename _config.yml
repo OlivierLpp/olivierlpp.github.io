@@ -1,15 +1,13 @@
 title: Olivier Le Pestipon # your name (or website title) here
 logo: "/assets/images/profil2.png?raw=true" # your photo (or logo) here
 description:  # your text below (remove <br> elements if you don't need line breaks)
-  <br>
+
   <h2>Hi, I'm Olivier!</h2> 
-  <br>
   <p>A web developer and data analyst who creates accessible and inclusive digital spaces and products.</p>
   <p>Data enthusiast, I have been working in the product devellopment for tech company for many years.</p>
   <p>Whether you're a startup or a Fortune500 company, there is always opportunity to make your product more accessible. </p>
-  <br>
-  <strong>Let's get in Touch !</strong>
-  <br>
+  <p><strong>Let's get in Touch !</strong></p>
+  <br><br>
   <a href="https://www.linkedin.com/in/olivierlepestipon/">View My LinkedIn</a>
   <br>
   <a href="https://github.com/OlivierLpp">View My Github</a>
