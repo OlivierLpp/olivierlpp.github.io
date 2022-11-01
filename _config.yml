@@ -2,7 +2,7 @@ title: Olivier Le Pestipon # your name (or website title) here
 logo: "/assets/images/profil2.png?raw=true" # your photo (or logo) here
 description:  # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  <h2>Hi, I am Olivier,<h2> 
+  <h2>Hi, I'm Olivier!</h2> 
   <br>
   <p>A web developer and data analyst who creates accessible and inclusive digital spaces and products.</p>
   <br>
@@ -13,10 +13,10 @@ description:  # your text below (remove <br> elements if you don't need line bre
   <strong>Let's get in Touch !</strong>
   <br><br>
   <a href="https://www.linkedin.com/in/olivierlepestipon/">View My LinkedIn</a>
-  <br>
+  <br><br>
   <a href="https://github.com/OlivierLpp">View My Github</a>
-  <br>
-  <a href="mailto:abc@example.com">Send me an Email</a>
+  <br><br>
+  <a href="mailto:o.lepestipon@gmail.com">Send me an Email</a>
 
 
 theme: jekyll-theme-minimal
