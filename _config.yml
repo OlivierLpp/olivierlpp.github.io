@@ -2,13 +2,16 @@ title: Olivier Le Pestipon # your name (or website title) here
 logo: "/assets/images/profil2.png?raw=true" # your photo (or logo) here
 description:  # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  Hi, I am Olivier, I am looking for new opportunity as data scientist. 
+  Hi, I am Olivier, 
   <br><br>
+  A web developer and data analyst who creates accessible and inclusive digital spaces and products.
   Data enthusiast, I am currently attending an intensive  bootcamp in Data Science at Le Wagon 
   <br><br>
-  I have been working in the product devellopment for tech company for 5+ years. 
+  I have been working in the product devellopment for tech company for many years. 
+  Whether you're a startup or a Fortune500 company, there is always opportunity to make your product more accessible. 
   <br><br>
+  Let's get in Touch ! 
   <a href="https://www.linkedin.com/in/olivierlepestipon/">View My LinkedIn Profile</a> 
 
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-9N0NH8B7DZ # your Google Analytics tracking ID here
