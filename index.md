@@ -2,9 +2,11 @@
 
 <br>
 
-## 1. HarvAI Chatbot <a><button name="button" onclick="https://youtu.be/zSfclADTKbY?t=1777" style='background-color:#FF0000; color:white'>**Youtube**</button><button name="button" onclick="https://github.com/MarcusLZ/harvai" style='background-color:grey'>**Github**</button></a>
+## 1. HarvAI Chatbot <a><button name="button" onclick="location.href='https://youtu.be/zSfclADTKbY?t=1777';" style='background-color:#FF0000; color:white'>Youtube</button><button name="button" onclick="location.href='https://github.com/MarcusLZ/harvai';" style='background-color:grey'>Github</button></a>
 
-<a><button name="button" onclick="https://youtu.be/zSfclADTKbY?t=1777" style='background-color:#FF0000; color:white'>**Youtube**</button><button name="button" onclick="https://github.com/MarcusLZ/harvai" style='background-color:grey'>**Github**</button></a>
+<form action="https://google.com">
+    <input type="submit" value="Go to Google" />
+</form>
 
 In everyday life it is difficult for an uninformed public to know the law in place. Harvai, offers you an intelligent NLP chatbot that answers your legal questions. It was developed by a team of 3 developers. 
 
