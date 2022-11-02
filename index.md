@@ -50,7 +50,7 @@ Technologies :
 
 ---
 
-## 4. Simple Calculator <button name="button" onclick="location.href='http://www.o-lpp.tech/calculator/';" style='background-color:lightgreen'>**Live**</button><button name="button" onclick="location.href='https://github.com/OlivierLpp/calculator';" style='background-color:grey'>**Github**</button>
+## 4. Simple Calculator <button name="button" onclick="location.href='https://github.com/OlivierLpp/calculator';" style='background-color:grey'>**Github**</button><button name="button" onclick="location.href='http://www.o-lpp.tech/calculator/';" style='background-color:lightgreen'>**Live**</button>
 
 
 Simple Calculator does exactly what the name suggests. Click with your mouse to do a simple calculation.
