@@ -2,13 +2,13 @@
 
 <br>
 
-## 1. HarvAI Chatbot <button name="button" onclick="https://youtu.be/zSfclADTKbY?t=1777" style='background-color:#FF0000; color:white'>**Youtube**</button><button name="button" onclick="https://github.com/MarcusLZ/harvai" style='background-color:grey'>**Github**</button> 
+## 1. HarvAI Chatbot <a><button name="button" onclick="https://youtu.be/zSfclADTKbY?t=1777" style='background-color:#FF0000; color:white'>**Youtube**</button><button name="button" onclick="https://github.com/MarcusLZ/harvai" style='background-color:grey'>**Github**</button></a>
 
-In everyday life it is difficult for an uninformed public to know the law in place (lots of text on the same topic / time-consuming searches / vocabulary difficult to understand).
+<a><button name="button" onclick="https://youtu.be/zSfclADTKbY?t=1777" style='background-color:#FF0000; color:white'>**Youtube**</button><button name="button" onclick="https://github.com/MarcusLZ/harvai" style='background-color:grey'>**Github**</button></a>
 
-The solution that Harvai offers you is an intelligent NLP chatbot that answers your legal questions. It was developed by a team of 3 developers. 
+In everyday life it is difficult for an uninformed public to know the law in place. Harvai, offers you an intelligent NLP chatbot that answers your legal questions. It was developed by a team of 3 developers. 
 
-API hosted on GCP and front end using streamlit hosted on Heroku. More information: [pdf](/assets/pdf/HarvAI.pdf)
+API hosted on GCP and front end using streamlit hosted on Heroku. For more information: [pdf.](/assets/pdf/HarvAI.pdf)
 
 Technologies : 
 <p align="left">
@@ -43,9 +43,10 @@ Technologies :
 My professional portfolio made with Boostrap. It uses a simple grid layout with a clear visual hierarchy. It is design responsive so if you have a small screen width (like an iPhone), you can still see all of the content on your page.
 
 Technologies : 
-
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>     
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" /></p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" />
+</p>
 
 ---
 
