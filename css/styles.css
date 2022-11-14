@@ -1,0 +1,125 @@
+html {
+  scroll-padding-top: 3.5rem;
+}
+
+header {
+  padding-top: 9.5rem;
+  padding-bottom: 6rem;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center;
+  background-size: cover;
+  background-image: url('../images/background.jpg');
+
+}
+
+section {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+
+
+/* fonts styles */
+
+h1 {
+  text-decoration-line: underline;
+  text-decoration-color: #fed541;
+}
+
+h2 {
+  text-decoration-line: underline;
+  text-decoration-color: #259aef;
+}
+
+.yellow {
+  color: #fed541;
+}
+
+.brand {
+  font-family: cursive;
+}
+
+
+/* navbar */
+
+.bg-dark {
+  background: transparent !important;
+  transition: 0.75s ease;
+}
+
+.bg-dark.scrolled {
+  background: #002341 !important;
+}
+
+
+/* icons : header  */
+
+.social-icons_h .social-icon_h {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 3.5rem;
+  width: 3.5rem;
+  background-color: #002341;
+  color: #ffffff;
+  border-radius: 100%;
+  font-size: 1.5rem;
+  margin-right: 1.5rem;
+  border: 2px solid #ffffff;
+}
+
+.social-icons_h .social-icon_h:last-child {
+  margin-right: 0;
+}
+
+.social-icons_h .social-icon_h:hover {
+  background-color: #239af4;
+  color: #fed541;
+}
+
+
+/* icons : contact me  */
+
+.social-icons .social-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 5rem;
+  width: 5rem;
+  background-color: #002341;
+  color: #fff;
+  border-radius: 100%;
+  font-size: 2.2rem;
+  margin-right: 4rem;
+
+}
+
+.social-icons .social-icon:last-child {
+  margin-right: 0;
+}
+
+.social-icons .social-icon:hover {
+  background-color: #239af4;
+  color: #fed541;
+}
+
+
+/* icons on programming languages & Tools  */
+
+.dev-icons {
+  font-size: 3rem;
+  color: #002341;
+}
+
+
+/* Javascript Typing effect  */
+
+.console-underscore {
+  display: inline-block;
+  position: relative;
+  color: #fed541;
+}
+
+.container {
+  position: relative;
+}
